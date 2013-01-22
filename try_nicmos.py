@@ -9,7 +9,7 @@ import os
 # provide an absolute path to the data directory
 # ----------------------------------------------
 home = os.environ['HOME']
-ddir = home+'prog/python/libs/pysco2/data/' # data directory
+ddir = home+'/prog/python/libs/pysco2/data/' # data directory
 
 ''' ------------------------------------------------------------------
     For this demonstration, two HST data sets on the same target at two
